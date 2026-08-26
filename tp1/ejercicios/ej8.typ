@@ -21,9 +21,8 @@ Para cada solución:
   - La clase `GestionCurso` actúa como gestor del dominio, encapsulando la lista de estudiantes y proveyendo métodos de alto nivel (`obtener_mejor_estudiante()`, `calcular_promedio()`, `obtener_aplazados()`).
 
   *Código Fuente (`src/punto8_poo.py`):*
-  ```python
-  # Inserte o implemente aquí su solución en Python (POO)
-  ```
+   #raw(read("../src/Tp1_08_poo.py"),lang: "python")
+
 ]
 
 #resolucion(titulo: "Solución 2: Paradigma Funcional")[
@@ -35,9 +34,7 @@ Para cada solución:
   - Uso de funciones de orden superior (`map`, `filter`, `reduce`) y expresiones declarativas (`lambda`).
 
   *Código Fuente (`src/punto8_funcional.py`):*
-  ```python
-  # Inserte o implemente aquí su solución en Python (Funcional)
-  ```
+  #raw(read("../src/Tp1_08_fu.py"),lang: "python")
 ]
 
 #resolucion(titulo: "Comparación Crítica y Elección del Paradigma Más Apropiado")[
