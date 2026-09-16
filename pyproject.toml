@@ -1,0 +1,13 @@
+[project]
+name = "mp-ing-inf-2026"
+version = "0.1.0"
+description = "Resoluciones de trabajos prácticos de Paradigmas de Programación"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
