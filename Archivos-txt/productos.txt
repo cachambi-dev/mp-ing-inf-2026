@@ -1,0 +1,10 @@
+100;Aceite 1.5L;Natura;1207.79;100
+15;Leche Entera Larga Vida 1L;Manfrey;379.9;50
+45;Arvejas Secas 350gr;Inalpa;184.99;50
+2;Salsa Piza doy pack 340gr;Silvia;169.99;20
+105;Cafe en saquitos 20u x 5gr;La virginia;699.99;100
+20;Pañuelo Carilina 6x10;Elite;499.45;30
+160;Shampoo 970ml;Plusbelle;524.25;10
+6;Dulce Leche 400gr;SanCor;559.99;15
+5;Queso Untable 190gr;SanCor;676.59;10
+16;Yogur Firme 120 gr;La Serenisima;201.32;10

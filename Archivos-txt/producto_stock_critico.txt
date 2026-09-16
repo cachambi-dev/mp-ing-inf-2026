@@ -1,0 +1,7 @@
+Productos con stock bajo
+
+160 - Shampoo 970ml - Plusbelle
+5 - Queso Untable 190gr - SanCor
+16 - Yogur Firme 120 gr - La Serenisima
+
+Cantidad de tipos de productos bajo: 3
