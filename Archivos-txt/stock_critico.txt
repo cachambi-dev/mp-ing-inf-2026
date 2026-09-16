@@ -1,0 +1,5 @@
+MEDICAMENTOS CON STOCK CRITICO: 
+- Ibuprofeno 400mg (Stock: 4)
+- Amoxicilina 500mg (Stock: 8)
+
+Total de productos en alerta: 2

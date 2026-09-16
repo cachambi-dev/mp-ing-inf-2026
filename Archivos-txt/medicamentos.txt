@@ -1,0 +1,4 @@
+MED001;paracetamol 500mg;Analgesicos;1500.50;15
+MED002;IBUPROFENO 400MG;Analgesicos;2300.00;4
+MED003;amoxicilina 500mg;Antibioticos;4100.75;8
+MED004;Loratadina 10mg;Antialergicos;1800.00;25
