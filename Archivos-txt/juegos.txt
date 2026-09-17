@@ -1,0 +1,9 @@
+MIN001;minecraft;Mojang;Aventura;2011;17569.99;D
+FIF002;FIFA 23;EA Sports;Deportes;2022;59759.99;D
+CAL003;Call of Duty: Modern Warfare II;Infinity Ward;Shooter;2022;72750.00;A
+FOR004;Fortnite;Epic Games;Shooter;2017;16490.00;D
+LEA005;League of Legends;Riot Games;Estrategia;2009;0.00;D
+ELD006;Elden Ring;FromSoftware;Aventura;2022;51508.99;P
+GTA007;GTA V;Rockstar Games;Aventura;2013;22138.99;D
+VAL008;valorant;Riot Games;Shooter;2020;0.00;P
+SKY009;sky Craft;Parablum;Aventura;2021;17569.99;D
