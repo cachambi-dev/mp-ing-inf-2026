@@ -1,0 +1,9 @@
+Videojuegos en oferta
+
+Minecraft;Mojang;17569.99
+Fortnite;Epic Games;16490.00
+League of legends;Riot Games;0.00
+Valorant;Riot Games;0.00
+Sky craft;Parablum;17569.99
+
+Cantidad de videojuegos en oferta: 5

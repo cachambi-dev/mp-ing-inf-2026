@@ -82,6 +82,6 @@ lista_2_juegos_mas_caros = devolver_2_juegos_mas_caros(lista_videojuegos)
 print(f"-> Los 2 juegos mas caros son: {lista_2_juegos_mas_caros[0]['titulo']} y {lista_2_juegos_mas_caros[1]['titulo']}.")
 
 # e 
-precio = int(input("Ingrese un precio limite para generar el informe de ofertas: "))
+precio = float(input("Ingrese un precio limite para generar el informe de ofertas: "))
 cantidad_ofertas = generar_informe_ofertas(precio, lista_videojuegos)
 print(f"-> Se generaron {cantidad_ofertas} ofertas.")
